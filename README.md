@@ -1,7 +1,7 @@
 # Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
-- [Awesome C++](#awesome-cpp)
+- [Awesome C++ ![Awesome](https://awesome.re)](#awesome-c-img-src%22httpsawesomere%22-alt%22awesome%22)
 	- [Standard Libraries](#standard-libraries)
 	- [Frameworks](#frameworks)
 	- [Artificial Intelligence](#artificial-intelligence)
@@ -64,8 +64,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Talks](#talks)
 	- [Videos](#videos)
 	- [Websites](#websites)
+	- [Weblogs](#weblogs)
+	- [Other Awesome Projects](#other-awesome-projects)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+			- [*If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*](#if-you-see-a-project-or-link-here-that-is-no-longer-maintained-or-is-not-a-good-fit-please-submit-a-pull-request-to-improve-this-document-thank-you)
 
 ## Standard Libraries
 *C++ Standard Library - including STL Containers, STL Aglorithm, STL Functional, etc.*
@@ -142,6 +145,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Audio
 *Audio, Sound, Music, Digitized Voice Libraries*
 
+* [Audacity](https://github.com/audacity/audacity) Audio Editor
 * [FMOD](http://www.fmod.org/) - An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]
 * [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, FFT, FIR/IIR filters, Sample Rate Conversion. [GPL/Commercial]
 * [LAME](https://lame.sourceforge.io/using.php) - LAME is a high quality MPEG Audio Layer III (MP3) encoder. [LGPL]
@@ -397,7 +401,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [otfcc](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. [Apache-2.0]
 
 ## Game Engine
-
+* [SFML](https://github.com/SFML/SFML) Simple and Fast Multimedia Library http://www.sfml-dev.org/
 * [Acid](https://github.com/Equilibrium-Games/Acid) - A high speed C++17 Vulkan game engine. [MIT]
 * [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. [zlib]
 * [Atomic Game Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) - A multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript. [Commercial]
